@@ -1,0 +1,5 @@
+{
+  "name": "Arthur Personal Assistant",
+  "description": "A sophisticated personal assistant with a built-in agenda, featuring Gemini-powered natural language scheduling, task management, and intelligent daily planning.",
+  "requestFramePermissions": []
+}
